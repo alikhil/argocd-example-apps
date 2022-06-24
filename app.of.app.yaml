@@ -11,7 +11,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: test.app.yaml
+    path: app
     repoURL:  https://github.com/alikhil/argocd-example-apps
     targetRevision: HEAD
 
